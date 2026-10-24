@@ -4,6 +4,7 @@ var class_droplet_1_1_scene_1_1_component =
     [ "~Component", "class_droplet_1_1_scene_1_1_component.html#aeda266bd59c058e43abef5326e8cc3cc", null ],
     [ "Component", "class_droplet_1_1_scene_1_1_component.html#ae6d396a30b5f894244ae9110079e73a0", null ],
     [ "Component", "class_droplet_1_1_scene_1_1_component.html#a429bb626bf852fa4ecdd63f295b4c5bc", null ],
+    [ "ActiveChangedImpl", "class_droplet_1_1_scene_1_1_component.html#ae3f3113f3650f57a345cf0925c0eb1f5", null ],
     [ "Deserialize", "class_droplet_1_1_scene_1_1_component.html#a712548abef572fb1140d826a12e07784", null ],
     [ "DeserializeImpl", "class_droplet_1_1_scene_1_1_component.html#adbe61aa1a38fb13935338ebc168ae02b", null ],
     [ "FixedUpdate", "class_droplet_1_1_scene_1_1_component.html#af2d0cb42dd585c9dce62c4d65a526f15", null ],

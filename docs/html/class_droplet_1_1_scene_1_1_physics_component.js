@@ -12,6 +12,7 @@ var class_droplet_1_1_scene_1_1_physics_component =
     ] ],
     [ "PhysicsComponent", "class_droplet_1_1_scene_1_1_physics_component.html#a766e20c85ce2549575b45679c2ba820d", null ],
     [ "~PhysicsComponent", "class_droplet_1_1_scene_1_1_physics_component.html#ab1981966b1b73befaafbb7a09d0e1078", null ],
+    [ "ActiveChangedImpl", "class_droplet_1_1_scene_1_1_physics_component.html#a919ab1918d2eef13107faf480f2b5f72", null ],
     [ "DeserializeImpl", "class_droplet_1_1_scene_1_1_physics_component.html#a81c37eabeedf2aad2c2db9b90a632ad6", null ],
     [ "GetTypeName", "class_droplet_1_1_scene_1_1_physics_component.html#a5d45bed199f8e778cce443427ac354a9", null ],
     [ "Initialize", "class_droplet_1_1_scene_1_1_physics_component.html#a9dc75cfd4e3db9a70e216856ee2e961b", null ],
