@@ -1,0 +1,9 @@
+site_name: TestRepo
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - API Reference: doxygen/index.html
